@@ -1,2 +1,2 @@
 # NestJs project
- NestJs , TypeScript
+ NestJs , TypeScript course
