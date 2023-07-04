@@ -1,5 +1,5 @@
 export declare class MessagesController {
     listMessage(): void;
-    createMessage(): void;
-    getMessage(): void;
+    createMessage(body: any): void;
+    getMessage(id: string): void;
 }
